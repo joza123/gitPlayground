@@ -1,1 +1,2 @@
 Dodano nešto novo
+dodao nešto da mi se gitignore update-a?
